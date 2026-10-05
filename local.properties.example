@@ -1,0 +1,5 @@
+# 이 파일을 local.properties 로 복사한 뒤 값을 채우세요. (Android Studio 가 sdk.dir 을 자동으로 추가합니다)
+# Last.fm API 키: https://www.last.fm/api/account/create
+LASTFM_API_KEY=
+# (선택) GetSongBPM API 키: https://getsongbpm.com/api
+GETSONGBPM_API_KEY=

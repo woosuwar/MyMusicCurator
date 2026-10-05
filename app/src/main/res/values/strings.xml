@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Music Curator</string>
+    <string name="listener_service_label">재생 기록 수집</string>
+</resources>
